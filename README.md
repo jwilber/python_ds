@@ -5,8 +5,7 @@ python data structures implementations and problems
 
 ## File Structure
 
-* Arrays.ipynb*
-
+**Arrays.ipynb**
 Jupyter Notebook that includes the following:
 
 * Dynamic Array implementation
